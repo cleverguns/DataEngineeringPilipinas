@@ -1,0 +1,12 @@
+[
+    {"Order_ID": 1001, "Shipping_Cost": 10.00, "Shipping_Method": "Express", "Shipping_Region": "Local"},
+    {"Order_ID": 1002, "Shipping_Cost": 15.00, "Shipping_Method": "Standard", "Shipping_Region": "National"},
+    {"Order_ID": 1003, "Shipping_Cost": 8.00, "Shipping_Method": "Standard", "Shipping_Region": "International"},
+    {"Order_ID": 1004, "Shipping_Cost": 20.00, "Shipping_Method": "Express", "Shipping_Region": "Local"},
+    {"Order_ID": 1005, "Shipping_Cost": 12.00, "Shipping_Method": "Express", "Shipping_Region": "National"},
+    {"Order_ID": 1006, "Shipping_Cost": 18.00, "Shipping_Method": "Standard", "Shipping_Region": "Local"},
+    {"Order_ID": 1007, "Shipping_Cost": 9.00, "Shipping_Method": "Express", "Shipping_Region": "International"},
+    {"Order_ID": 1008, "Shipping_Cost": 16.00, "Shipping_Method": "Standard", "Shipping_Region": "National"},
+    {"Order_ID": 1009, "Shipping_Cost": 7.00, "Shipping_Method": "Express", "Shipping_Region": "Local"},
+    {"Order_ID": 1010, "Shipping_Cost": 14.00, "Shipping_Method": "Standard", "Shipping_Region": "International"}
+]

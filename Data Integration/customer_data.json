@@ -1,0 +1,12 @@
+[
+    {"Customer_ID": 1, "Customer_Name": "John Doe", "Region": "North", "Gender": "Male", "Age": 35, "Segment": "Regular", "Loyalty_Level": "Silver"},
+    {"Customer_ID": 2, "Customer_Name": "Jane Smith", "Region": "South", "Gender": "Female", "Age": 28, "Segment": "VIP", "Loyalty_Level": "Gold"},
+    {"Customer_ID": 3, "Customer_Name": "Michael Johnson", "Region": "East", "Gender": "Male", "Age": 40, "Segment": "Regular", "Loyalty_Level": "Bronze"},
+    {"Customer_ID": 4, "Customer_Name": "Emily Brown", "Region": "West", "Gender": "Female", "Age": 45, "Segment": "VIP", "Loyalty_Level": "Platinum"},
+    {"Customer_ID": 5, "Customer_Name": "David Wilson", "Region": "North", "Gender": "Male", "Age": 32, "Segment": "Regular", "Loyalty_Level": "Silver"},
+    {"Customer_ID": 6, "Customer_Name": "Emma Martinez", "Region": "South", "Gender": "Female", "Age": 39, "Segment": "Regular", "Loyalty_Level": "Gold"},
+    {"Customer_ID": 7, "Customer_Name": "James Taylor", "Region": "East", "Gender": "Male", "Age": 55, "Segment": "VIP", "Loyalty_Level": "Platinum"},
+    {"Customer_ID": 8, "Customer_Name": "Olivia Rodriguez", "Region": "West", "Gender": "Female", "Age": 30, "Segment": "Regular", "Loyalty_Level": "Bronze"},
+    {"Customer_ID": 9, "Customer_Name": "William Lee", "Region": "North", "Gender": "Male", "Age": 42, "Segment": "Regular", "Loyalty_Level": "Silver"},
+    {"Customer_ID": 10, "Customer_Name": "Sophia White", "Region": "South", "Gender": "Female", "Age": 37, "Segment": "VIP", "Loyalty_Level": "Gold"}
+]

@@ -1,0 +1,12 @@
+[
+    {"Product": "Product A", "Category": "Category 1", "Base_Price": 50.00, "Discount": 0.10, "Supplier": "Supplier X", "Popularity_score": 8},
+    {"Product": "Product B", "Category": "Category 2", "Base_Price": 80.00, "Discount": 0.15, "Supplier": "Supplier Y", "Popularity_score": 6},
+    {"Product": "Product C", "Category": "Category 1", "Base_Price": 70.00, "Discount": 0.05, "Supplier": "Supplier Z", "Popularity_score": 7},
+    {"Product": "Product D", "Category": "Category 3", "Base_Price": 120.00, "Discount": 0.20, "Supplier": "Supplier X", "Popularity_score": 9},
+    {"Product": "Product E", "Category": "Category 2", "Base_Price": 90.00, "Discount": 0.12, "Supplier": "Supplier Y", "Popularity_score": 5},
+    {"Product": "Product F", "Category": "Category 1", "Base_Price": 60.00, "Discount": 0.08, "Supplier": "Supplier Z", "Popularity_score": 7},
+    {"Product": "Product G", "Category": "Category 3", "Base_Price": 110.00, "Discount": 0.18, "Supplier": "Supplier X", "Popularity_score": 8},
+    {"Product": "Product H", "Category": "Category 2", "Base_Price": 85.00, "Discount": 0.10, "Supplier": "Supplier Y", "Popularity_score": 6},
+    {"Product": "Product I", "Category": "Category 1", "Base_Price": 75.00, "Discount": 0.07, "Supplier": "Supplier Z", "Popularity_score": 7},
+    {"Product": "Product J", "Category": "Category 3", "Base_Price": 100.00, "Discount": 0.15, "Supplier": "Supplier X", "Popularity_score": 9}
+]

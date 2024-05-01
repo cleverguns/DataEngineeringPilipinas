@@ -1,0 +1,12 @@
+[
+    {"Order_ID": 1001, "Date": "2024-04-01", "Product": "Product A", "Amount": 150.50, "Customer_ID": 1},
+    {"Order_ID": 1002, "Date": "2024-04-02", "Product": "Product B", "Amount": 200.25, "Customer_ID": 2},
+    {"Order_ID": 1003, "Date": "2024-04-03", "Product": "Product C", "Amount": 75.80, "Customer_ID": 3},
+    {"Order_ID": 1004, "Date": "2024-04-04", "Product": "Product D", "Amount": 300.00, "Customer_ID": 4},
+    {"Order_ID": 1005, "Date": "2024-04-05", "Product": "Product E", "Amount": 120.00, "Customer_ID": 5},
+    {"Order_ID": 1006, "Date": "2024-04-06", "Product": "Product F", "Amount": 180.75, "Customer_ID": 6},
+    {"Order_ID": 1007, "Date": "2024-04-07", "Product": "Product G", "Amount": 90.20, "Customer_ID": 7},
+    {"Order_ID": 1008, "Date": "2024-04-08", "Product": "Product H", "Amount": 250.00, "Customer_ID": 8},
+    {"Order_ID": 1009, "Date": "2024-04-09", "Product": "Product I", "Amount": 175.30, "Customer_ID": 9},
+    {"Order_ID": 1010, "Date": "2024-04-10", "Product": "Product J", "Amount": 100.50, "Customer_ID": 10}
+]
